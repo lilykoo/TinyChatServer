@@ -1,0 +1,3 @@
+/home/liyu1391/linuxcoding/Server_Project/test/testmuduo/build/CMakeFiles/server.dir
+/home/liyu1391/linuxcoding/Server_Project/test/testmuduo/build/CMakeFiles/edit_cache.dir
+/home/liyu1391/linuxcoding/Server_Project/test/testmuduo/build/CMakeFiles/rebuild_cache.dir

@@ -26,7 +26,7 @@
 
 
 4.编译方式：
-运行脚本文件 ./autobuild.sh
+    运行脚本文件 ./autobuild.sh
 
 
 5.运行
